@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-video-carousel",
+  "version": "0.0.1",
+  "homepage": "https://github.com/danbhala/bootstrap-video-carousel",
+  "authors": [
+    "Dan Stuart <danbhala@gmail.com>"
+  ],
+  "keywords": [
+    "Bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
