@@ -16,5 +16,8 @@
     "test",
     "tests"
   ],
-  "main": "scss/_video-carousel.scss"
+  "main": [ "./scss/_video-carousel.scss","./js/video-carousel.js" ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0"
+  }
 }
